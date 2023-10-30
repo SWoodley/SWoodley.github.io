@@ -1,6 +1,6 @@
 # Personal Website
 
-Visit this site at [swoodley.github.io](swoodley.github.io)
+Visit this site at [swoodley.github.io](https://swoodley.github.io)
 
 ## Built with
 
